@@ -1,0 +1,9 @@
+[KataGo] katago.exe not found, using built-in AI
+[DEBUG] Received body: {"x":3,"y":3}
+[DEBUG] Parsed coordinates: x=3, y=3
+[DEBUG] makeMove called: x=3, y=3, player=1
+[DEBUG] isValidMove: x=3, y=3, player=1
+[DEBUG] isValidMove: x=0, y=0, player=1
+[DEBUG] makeMove called: x=3, y=9, player=2
+[DEBUG] isValidMove: x=3, y=9, player=2
+[DEBUG] isValidMove: x=0, y=0, player=1

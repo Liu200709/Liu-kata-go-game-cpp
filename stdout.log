@@ -1,0 +1,18 @@
+========================================
+KataGo围棋人机对弈服务器 (C++ Version)
+========================================
+服务器启动在 http://localhost:8000
+请在浏览器中打开上述地址开始对弈
+
+[DEBUG] recv returned 233 bytes, totalRead=233
+[DEBUG] Content-Length found: 0
+[DEBUG] Header ends at 229, body received: 0 of 0, expected total: 233
+[BODY] Length: 0, Content: ''
+[BODY] Length: 0, Content: ''
+[DEBUG] recv returned 197 bytes, totalRead=197
+[DEBUG] Content-Length found: 13
+[DEBUG] Header ends at 193, body received: 0 of 13, expected total: 210
+[DEBUG] recv returned 13 bytes, totalRead=210
+[DEBUG] Header ends at 193, body received: 13 of 13, expected total: 210
+[BODY] Length: 13, Content: '{"x":3,"y":3}'
+[BODY] Length: 13, Content: '{"x":3,"y":3}'
